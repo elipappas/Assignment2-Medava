@@ -1,0 +1,7 @@
+Eli Pappas - Questions:
+1. How exactly are all of these files connected, is it because they are in the same folder, or is it because of the package header?
+2. This may be a dumb question, but what is the main difference in use between a function and a method and what are some ways each may be used that the other can't be?
+3. At one point in this assignment we change goods from private to public and back to private. Is the only reason for using a private member security or is there more to it?
+4. When using inheritence, what all member values and functions are accessible, i.e. can something inheriting access local, static, public, private, and protected data?
+5. Can the @Override annotation only be used when inheriting?
+6. This is less specific to the content and more about coding larger projects as a whole, but when modifying code is it frequent that you are required to solve all the trickle down issues, and if so what is some advice to make finding and solving those issues easier?
